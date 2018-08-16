@@ -44,9 +44,9 @@
 #include <vector>
 #include <string>
 
-#include <csm/csm.h>
-#include <csm/Isd.h>
-#include <csm/SettableEllipsoid.h>
+#include <csm.h>
+#include <Isd.h>
+#include <SettableEllipsoid.h>
 
 class UsgsAstroLsISD
 {
